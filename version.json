@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.3",
-  "critical": 1,
+  "latest": "1.0.5",
+  "critical": 0,
   "download_url": "https://github.com/jhg00019/analizador-datos-climaticos/releases/latest"
-  "min_required_version": "1.0.3"
+  "min_required_version": "1.0.4"
 }
