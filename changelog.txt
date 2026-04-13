@@ -1,8 +1,4 @@
-Analizador de datos climáticos versión 1.0.2
+Analizador de datos climáticos versión 1.0.3
 
-Registro de cambios 19/02/2026
-- IMPORTANTE: Actualizada base de datos para incluir nuevos equipos y valores.
-- Añadida comprobación en el arranque de la última versión disponible del software, con aviso al usuario en caso de que no se esté utilizando la última versión.
-- Se añade el menú "Info" en la barra de herramientas desde el cual se puede verificar manualmente la última versión disponible del software, cómo descargarla, y acceder a la guía de uso del mismo.
-- Añadida opción de Activar o desactivar los cursores, para facilitar el manejo y movimiento en la gráfica.
-- Se añade barra de carga en el cargado de archivos para mejorar la experiencia de usuario.
+Registro de cambios 13/04/2026
+- IMPORTANTE: Actualizada base de datos con nuevos valores.
